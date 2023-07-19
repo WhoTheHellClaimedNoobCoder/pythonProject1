@@ -30,4 +30,4 @@ def main():
 
 main()
 
-print("Hello github integration")
+print("Hello github integration in visual studio code")
